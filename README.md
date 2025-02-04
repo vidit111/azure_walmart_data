@@ -63,7 +63,7 @@ I worked with **Walmart Sales Data**, consisting of the following files:
 📄 **`store_wise_stats.csv`**:  
 `['Store', 'Total_Weekly_Sales', 'Avg_Weekly_Sales', 'Max_Weekly_Sales', 'Min_Weekly_Sales', 'Total_Transactions', 'Type', 'Size']`  
 
-
+Github Link: https://github.com/vidit111/azure_walmart_data
 
 🔥 **Next Steps:** Visualizing these insights using **Tableau or Power BI** to identify key business trends.  
 
@@ -71,3 +71,18 @@ I worked with **Walmart Sales Data**, consisting of the following files:
 I am a passionate fresher eager to start my journey in Data Engineering. This project helped me gain hands-on experience in ETL processes, PySpark, and Data Analytics. I am actively looking for opportunities where I can apply my skills, learn, and contribute to impactful projects.
 
 If you're hiring or have any guidance, I would love to connect and discuss potential roles! Feel free to reach out or share any advice in the comments. Let’s build something amazing together! 💡💼
+
+Following are my skills:  
+Python 
+Snowflake
+Pyspark
+Tableau
+Data-bricks
+Azure Cloud
+Flask
+SQL
+MongoDB
+Streamlit
+Web Scraping
+Machine Learning
+OpenCV
