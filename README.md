@@ -2,7 +2,7 @@
 
  📌 Project Overview
 
-This project focuses on building anAzure Data Engineering Pipeline forWalmart Sales Forecasting Data. The pipeline automates data ingestion, transformation, and storage usingAzure Data Factory, Azure Data Lake, Databricks, and Synapse Analytics, with visualization inTableau.
+This project focuses on building anAzure Data Engineering Pipeline forWalmart Sales Forecasting Data. The pipeline automates data ingestion, transformation, and storage usingAzure Data Factory, Azure Data Lake, Databricks, and Synapse Analytics, with visualization inpowerBI.
 
 
  📂 Data Details
@@ -57,10 +57,10 @@ Process: Processed data was stored back in Data Lake Gen2, ensuring a structured
 
  📊4. Data Analysis & Visualization
 
-Tool Used: Azure Synapse Analytics, Tableau
+Tool Used: Azure Synapse Analytics, powerBI
 Process:
   Queried transformed data usingSynapse Analytics for insights.
-  CreatedTableau visualizations to analyze store performance, sales trends, and holiday impact.
+  CreatedpowerBI visualizations to analyze store performance, sales trends, and holiday impact.
 
 
 
@@ -71,11 +71,11 @@ Azure Data Factory (ADF) Data ingestion
 Azure Data Lake Gen2 Scalable cloud storage
 Azure Databricks (PySpark) ETL processing & data transformation
 Azure Synapse Analytics Querying processed data
-Tableau Data visualization
+powerBI Data visualization
 
 
 
- 📊 Key Visualizations (Tableau)
+ 📊 Key Visualizations (powerBI)
 
 Sales Trends Over Time (Line Chart)
 Impact of Temperature & Fuel Price on Sales (DualAxis Chart)
@@ -93,7 +93,7 @@ Holiday vs. NonHoliday Sales Comparison (Box Plot)
 3. UseDatabricks to process the data.
 4. Store processed data inAzure Data Lake Gen2.
 5. Load data intoAzure Synapse Analytics.
-6. CreateTableau dashboards for insights.
+6. Create powerBI dashboards for insights.
 
 
 
@@ -105,7 +105,7 @@ shrivastavavidit17@gmail.com
 
  🔗Future Enhancements
 
-✅ Deploy aMachine Learning Model for sales forecasting using Azure ML. ✅ AutomateTableau Dashboard Refresh using Azure Logic Apps.
+✅ Deploy aMachine Learning Model for sales forecasting using Azure ML. ✅ AutomatepowerBI Dashboard Refresh using Azure Logic Apps.
 ✅ ImplementRealTime Data Processing using Azure Stream Analytics.
 
 Cheers!
