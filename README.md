@@ -74,17 +74,6 @@ Azure Synapse Analytics Querying processed data
 powerBI Data visualization
 
 
-
- 📊 Key Visualizations (powerBI)
-
-Sales Trends Over Time (Line Chart)
-Impact of Temperature & Fuel Price on Sales (DualAxis Chart)
-Store Performance Comparison (Bar Chart)
-Store Size vs. Sales Performance (Scatter Plot)
-Holiday vs. NonHoliday Sales Comparison (Box Plot)
-
-
-
  🚀 How to Use
 
 1. Clone this repository:
@@ -96,11 +85,9 @@ Holiday vs. NonHoliday Sales Comparison (Box Plot)
 6. Create powerBI dashboards for insights.
 
 
-
  📩 Contact
 
 shrivastavavidit17@gmail.com
-
 
 
  🔗Future Enhancements
