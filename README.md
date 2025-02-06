@@ -5,26 +5,16 @@ Data Discription:
   File: stores.csv
   Columns: ['Store', 'Type', 'Size']
   
-  File: test.csv
-  Columns: ['Store', 'Dept', 'Date', 'IsHoliday']
-  
   File: train.csv
   Columns: ['Store', 'Dept', 'Date', 'Weekly_Sales', 'IsHoliday']
 
 
- **🚀 ETL Pipeline: Walmart Sales Data Analysis Using PySpark**  
+ **🚀 Azure ETL Pipeline: Walmart Sales Data Analysis** 
 
 🔹 **Dataset Overview**  
 I worked with **Walmart Sales Data**, consisting of the following files:  
 
-📂 **`features.csv`** – Storespecific details:  
-`['Store', 'Date', 'Temperature', 'Fuel_Price', 'MarkDown1', 'MarkDown2', 'MarkDown3', 'MarkDown4', 'MarkDown5', 'CPI', 'Unemployment', 'IsHoliday']`  
-
-📂 **`stores.csv`** – Store information:  
-`['Store', 'Type', 'Size']`  
-
-📂 **`train.csv`** – Weekly sales data:  
-`['Store', 'Dept', 'Date', 'Weekly_Sales', 'IsHoliday']`  
+First opened 
 
 
 
