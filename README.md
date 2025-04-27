@@ -2,7 +2,7 @@
 
  📌 Project Overview
 
-This project focuses on building anAzure Data Engineering Pipeline forWalmart Sales Forecasting Data. The pipeline automates data ingestion, transformation, and storage usingAzure Data Factory, Azure Data Lake, Databricks, and Synapse Analytics, with visualization inpowerBI.
+This project focuses on building an Azure Data Engineering Pipeline for Walmart Sales Forecasting Data. The pipeline automates data ingestion, transformation, and storage using Azure Data Factory, Azure Data Lake, Databricks, and Synapse Analytics, with visualization in powerBI.
 
 
  📂 Data Details
