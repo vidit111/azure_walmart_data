@@ -1,4 +1,4 @@
- Azure Data Pipeline Walmart Sales Forecasting Data
+ Azure Data Pipeline Walmart Sales Forecasting Data Engineering Project
 
  📌 Project Overview
 
